@@ -1,1 +1,0 @@
-savedcmd_/home/ubuntuvm/Desktop/developer/driver/initial/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntuvm/Desktop/developer/driver/initial/Module.symvers -T /home/ubuntuvm/Desktop/developer/driver/initial/modules.order -i Module.symvers -e 
