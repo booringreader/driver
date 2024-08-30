@@ -1,3 +1,5 @@
+// file to test the connection between driver and device file
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <unistd.h>  // provides functions to interact with POSIX OS api
